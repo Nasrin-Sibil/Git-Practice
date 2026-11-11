@@ -2,3 +2,4 @@ Hello! I am learning Git and GitHub.
 This is my first practice file.
 I am learning Git step by step.
 I am learning GitHub as part of my Java developer journey.
+I understand the basics of Git and GitHub.
