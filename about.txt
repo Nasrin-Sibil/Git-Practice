@@ -1,0 +1,2 @@
+My name is a Java developer in training.
+I am learning Java, Git and GitHub.
